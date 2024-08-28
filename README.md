@@ -4,7 +4,7 @@
 
 This is a simple yet effective To-Do app built with React. It features an intuitive UI for task management, including adding, editing, deleting tasks, and tracking progress with a progress bar.
 
-![To-Do App Demo](./assets/todo.gif)
+![To-Do App Demo](https://github.com/Karnan-se/TODO-REACT/blob/master/assets/todo.GIF)
 
 ### Key Features
 
